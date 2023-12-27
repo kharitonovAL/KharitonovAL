@@ -11,9 +11,11 @@ Tech stack: ParseServer, Firebase Cloud Messaging, MobX and Bloc.
 
 ### MySciHub
 I have studied the code written by another developer, dive into its work, and embed new functionality.
+Tech stack: Bloc, REST API.
 
 ### [Workee](https://play.google.com/store/apps/details?id=com.narushev.workee) - an exceptional experience!
 This app allows users to effortlessly create tasks while enabling others to conveniently complete them. It boasts a comprehensive rating and recommendation system, and also a robust censor system.
+Tech stack: Firebase, Localization, Google Maps, OTP codes, Stripe Payments.
 
 ## Skills
 VS Code, Android Studio, Xcode, Dart, Swift, Git, Firebase, ParseServer, Null safety, AppStoreConnect, Google Play Market.
