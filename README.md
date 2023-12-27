@@ -15,11 +15,18 @@ Tech stack:
 
 ### MySciHub
 I have studied the code written by another developer, dive into its work, and embed new functionality.
-Tech stack: Bloc, REST API.
+Tech stack:
+![Static Badge](https://img.shields.io/badge/Bloc-darkgreen?logo=Bloc)
+![Static Badge](https://img.shields.io/badge/REST_API-orange?logo=rest)
 
 ### [Workee](https://play.google.com/store/apps/details?id=com.narushev.workee) - an exceptional experience!
 This app allows users to effortlessly create tasks while enabling others to conveniently complete them. It boasts a comprehensive rating and recommendation system, and also a robust censor system.
-Tech stack: Firebase, Localization, Google Maps, OTP codes, Stripe Payments.
+Tech stack:
+![Static Badge](https://img.shields.io/badge/Firebase-orange?logo=firebase)
+![Static Badge](https://img.shields.io/badge/Localization-grey?logo=Localization)
+![Static Badge](https://img.shields.io/badge/Google_Maps-blue?logo=google&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/OTP_Code-grey?logo=Otp&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Stripe_payments-grey?logo=Stripe)
 
 ## Skills
 VS Code, Android Studio, Xcode, Dart, Swift, Git, Firebase, ParseServer, Null safety, AppStoreConnect, Google Play Market.
