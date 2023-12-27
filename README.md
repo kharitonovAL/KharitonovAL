@@ -2,12 +2,16 @@
 ...and Thank you for taking the time to meet me!
 
 ## About
-Flutter developer since Q3 2019
+I'm a Flutter developer since 2019.
 
 ## Experience
 ### [Operator18](https://github.com/kharitonovAL/o18).
 The CRM system with client-server architecture and Telegram bot. Try it out [here](https://v2.operator18.ru), login `operator@mail.ru` and password `operator`.
-Tech stack: ParseServer, Firebase Cloud Messaging, MobX and Bloc.
+Tech stack:
+![Static Badge](https://img.shields.io/badge/Parse_Server-blue?logo=pars)
+![Static Badge](https://img.shields.io/badge/Firebase_Cloud_Messagging-orange?logo=firebase)
+![Static Badge](https://img.shields.io/badge/Bloc-darkgreen?logo=Bloc)
+![Static Badge](https://img.shields.io/badge/MobX-darkblue?logo=Mobx)
 
 ### MySciHub
 I have studied the code written by another developer, dive into its work, and embed new functionality.
