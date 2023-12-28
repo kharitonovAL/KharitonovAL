@@ -12,7 +12,7 @@ The CRM system with client-server architecture and Telegram bot. Try it out [her
 ### MySciHub
 I have studied the code written by another developer, dive into its work, and embed new functionality.
 
-### [Workee](https://play.google.com/store/apps/details?id=com.narushev.workee) - an exceptional experience!
+### [Workee](https://play.google.com/store/apps/details?id=com.narushev.workee)
 This app allows users to effortlessly create tasks while enabling others to conveniently complete them. It boasts a comprehensive rating and recommendation system, and also a robust censor system.
 
 ## Stack
