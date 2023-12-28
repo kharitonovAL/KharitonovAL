@@ -22,13 +22,11 @@ VS Code, Android Studio, Xcode, Dart, Swift, Git, Firebase, ParseServer, Null sa
 ![Static Badge](https://img.shields.io/badge/Dart-grey?logo=dart)
 ![Static Badge](https://img.shields.io/badge/Flutter-grey?logo=flutter)
 ![Static Badge](https://img.shields.io/badge/VS_Code-grey?logo=visualstudiocode)
-
 ![Static Badge](https://img.shields.io/badge/Firebase-grey?logo=firebase)
 ![Static Badge](https://img.shields.io/badge/Parse_Server-grey?logo=pars)
 ![Static Badge](https://img.shields.io/badge/MobX-grey?logo=Mobx)
 ![Static Badge](https://img.shields.io/badge/Bloc-grey?logo=Bloc)
 ![Static Badge](https://img.shields.io/badge/Git-grey?logo=git)
-
 ![Static Badge](https://img.shields.io/badge/REST_API-grey?logo=rest)
 ![Static Badge](https://img.shields.io/badge/Localization-grey?logo=Localization)
 ![Static Badge](https://img.shields.io/badge/Google_Maps-grey?logo=google&logoColor=ffffff)
