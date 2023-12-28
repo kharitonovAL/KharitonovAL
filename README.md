@@ -15,9 +15,6 @@ I have studied the code written by another developer, dive into its work, and em
 ### [Workee](https://play.google.com/store/apps/details?id=com.narushev.workee) - an exceptional experience!
 This app allows users to effortlessly create tasks while enabling others to conveniently complete them. It boasts a comprehensive rating and recommendation system, and also a robust censor system.
 
-## Skills
-VS Code, Android Studio, Xcode, Dart, Swift, Git, Firebase, ParseServer, Null safety, AppStoreConnect, Google Play Market.
-
 ## Stack
 ![Static Badge](https://img.shields.io/badge/Dart-grey?logo=dart)
 ![Static Badge](https://img.shields.io/badge/Flutter-grey?logo=flutter)
