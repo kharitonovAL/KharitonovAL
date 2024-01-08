@@ -36,6 +36,7 @@ This app allows users to effortlessly create tasks while enabling others to conv
 - [Create Telegram-bot that listen to channel with Dart language](https://medium.com/@Kharitonov_al/create-telegram-bot-that-listen-to-channel-with-dart-language-61c10c20f7fb)
 - [The way im using Bloc in Flutter](https://medium.com/@Kharitonov_al/the-way-im-using-bloc-in-flutter-app-5c072d854e89)
 - [Telegram bot with Dart and Docker](https://medium.com/@Kharitonov_al/telegram-bot-with-dart-and-docker-1652d6017364)
+- [New Stripe payments in flutter](https://medium.com/@Kharitonov_al/new-stripe-payments-in-flutter-ae9f31a28438)
 
 ## Contacts
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:2501.mailbox@gmail.com)
