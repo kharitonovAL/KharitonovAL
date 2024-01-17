@@ -2,7 +2,7 @@
 ...and Thank you for taking the time to meet me!
 
 ## About
-I'm a Flutter developer since 2019.
+I'm a Flutter developer since 2019 and former iOS developer (2015-2019). I am a responsible, self-organized and reliable business partner. I always stay in touch, keep up with deadlines and do not keep silent about problems.
 
 ## Experience
 ### [Operator18](https://github.com/kharitonovAL/o18).
@@ -31,6 +31,8 @@ This app allows users to effortlessly create tasks while enabling others to conv
 ![Static Badge](https://img.shields.io/badge/Stripe_payments-grey?logo=Stripe)
 ![Static Badge](https://img.shields.io/badge/App_Store_Connect-grey?logo=apple)
 ![Static Badge](https://img.shields.io/badge/Google_Play_Market-grey?logo=googleplay)
+![Static Badge](https://img.shields.io/badge/Docker-grey?logo=docker)
+![Static Badge](https://img.shields.io/badge/Node.js-grey?logo=Node.js)
 
 ## Articles
 - [Create Telegram-bot that listen to channel with Dart language](https://medium.com/@Kharitonov_al/create-telegram-bot-that-listen-to-channel-with-dart-language-61c10c20f7fb)
