@@ -42,5 +42,5 @@ This app allows users to effortlessly create tasks while enabling others to conv
 
 ## Contacts
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:2501.mailbox@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram)](htts://t.me/Kharitonov_AL)
+[![Static Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram)](htts://t.me/hrtval)
 [![Static Badge](https://img.shields.io/badge/Twitter-black?logo=x)](https://twitter.com/al_mbx)
